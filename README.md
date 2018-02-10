@@ -1,2 +1,2 @@
 # cpp_learning
-cpp learnig note
+cpp learning note
