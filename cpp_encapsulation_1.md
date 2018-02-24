@@ -1,6 +1,6 @@
 ### C++远征 封装篇*上
 
-[linlk]https://www.imooc.com/learn/382)
+[link]https://www.imooc.com/learn/382)
 - 实例的初始化方法，栈中初始化 ClassName var， 堆中初始化 ClassName *p = new ClassName()， 
 - 对象成员的访问方法 两种 . 和 ->
 3-1
