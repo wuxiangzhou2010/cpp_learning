@@ -1,6 +1,6 @@
 ### C++远征 封装篇*上
 
-[link]https://www.imooc.com/learn/382)
+[link](https://www.imooc.com/learn/382)
 - 实例的初始化方法，栈中初始化 ClassName var， 堆中初始化 ClassName *p = new ClassName()， 
 - 对象成员的访问方法 两种 . 和 ->
 3-1
@@ -51,6 +51,7 @@ getline(cin,name);// 获取用户输入的 一行字符串
 可以重载
 
 重载函数的调用不明确
+
 6-4 默认构造函数
 构造函数初始化列表
 语法  Student():m_strName("xiaohong"),m_iAge(10)()
