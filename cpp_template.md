@@ -156,3 +156,18 @@ display<int, 5>(15);
 ### 函数的模板和重载
 
 模板函数重载
+类模板
+```
+template <class T>
+class MyArray{
+public:
+    void display()'
+}
+
+template <class T>
+void MyArray<T>::display(){
+
+}
+
+```
+模板代码不能分离编译
