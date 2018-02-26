@@ -5,3 +5,4 @@ cpp learning note
 - [C++远征之封装篇 下](./cpp_encapsulation_2.md)
 - [C++远征之继承篇](./cpp_inheritance.md)
 - [C++远征之多态篇](./polymorphism.md)
+- [C++远征之模板篇](./cpp_template.md)
