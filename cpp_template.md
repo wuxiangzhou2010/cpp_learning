@@ -171,3 +171,41 @@ void MyArray<T>::display(){
 
 ```
 模板代码不能分离编译
+
+
+## 标准模板库
+#### vector 向量
+
+对数组的封装， 功能强大的数组， 自动变长，读取能在常数时间完成。
+初始化方法
+常用的函数
+- empty
+- begin end 迭代器
+- clear
+- front 
+- back
+- size
+- push_back
+- pop_back
+
+迭代器
+```
+vector<string>::iterator citer = vec.begin();
+for(;citer != vec.end();citer++)
+{cout << *citer << endl;}
+```
+
+#### 链表
+
+数据插入的速度快
+#### 映射
+key value
+```
+map<int, string> m ;
+pair<int, string> p1(10,"shanghai");
+pair<int, string> p2(20,"beijing");
+m,insert(p1);
+m.insert(p2);
+cout << m[10] <<endl;
+cout << m[20] <<endl;
+```
