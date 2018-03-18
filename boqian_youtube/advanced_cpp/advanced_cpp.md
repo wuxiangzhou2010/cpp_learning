@@ -1,10 +1,11 @@
 ## [const](https://www.youtube.com/watch?v=7arYbAhu0aw&list=PLE28375D4AC946CC3)
 
-### onst 三种不同的位置
+### const 三种不同的位置
+```cpp
     const* int a 
     const int * a 
     cont * int* a 
-
+```
 ### const_cast
 ```cpp
 const int i = 5;
